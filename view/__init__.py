@@ -1,0 +1,1 @@
+# la funcion del __init__.py es indicarle a Python que la carpeta view/ es un paquete
